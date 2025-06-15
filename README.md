@@ -110,7 +110,8 @@ The following models were implemented:
 ## 🌐 Contact
 
 **Atharv Kadam**
-Email: atharva905@gmail.com
+
+Email: atharva895@gmail.com
 ---
 
 > *Note: This project was developed as an individual academic machine learning project with end-to-end data preparation, feature engineering, modeling, interpretation, and reporting.*
