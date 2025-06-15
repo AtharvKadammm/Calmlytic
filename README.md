@@ -107,10 +107,10 @@ The following models were implemented:
   - requirements.txt
 
 
-## 🌐 Author
+## 🌐 Contact
 
 **Atharv Kadam**
-
+Email: atharva905@gmail.com
 ---
 
 > *Note: This project was developed as an individual academic machine learning project with end-to-end data preparation, feature engineering, modeling, interpretation, and reporting.*
